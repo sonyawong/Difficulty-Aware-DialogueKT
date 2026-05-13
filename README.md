@@ -1,6 +1,6 @@
 # Difficulty-Aware Dialogue Knowledge Tracing
 
-A framework for **Knowledge Tracing (KT) in tutoring dialogues** using LLM fine-tuning with LoRA, augmented with Item Response Theory (IRT) for difficulty-aware student modeling. 
+This is the repo for **Difficulty-Aware-DialogueKT** in CS682: An Interpretable LLM-Based Ability and Difficulty Modeling Framework for Knowledge Tracing in Tutoring Dialogues.
 
 ---
 
