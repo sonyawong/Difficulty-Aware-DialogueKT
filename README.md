@@ -28,11 +28,12 @@ python -m dialogue_kt.main train \
     --base_model meta-llama/Meta-Llama-3.1-8B-Instruct \
     --model_type lmkt \
     --model_name my_model \
-    --tag_src atc \
+    --tag_src mathdial_format \
     --use_irt True \
     --lr 2e-4 \
     --epoch 5 \
-    --use_best_auc True
+    --use_best_auc True \
+    --fold 1 
 ```
 
 ---
@@ -48,10 +49,10 @@ or directly:
 ```bash
 python -m dialogue_kt.main test \
     --dataset eedi \
-    --crossval \
+    --fold 1 \
     --model_type lmkt \
     --model_name my_model \
-    --tag_src atc \
+    --tag_src mathdial_format \
     --base_model meta-llama/Meta-Llama-3.1-8B-Instruct
 ```
 
