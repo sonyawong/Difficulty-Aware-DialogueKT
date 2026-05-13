@@ -1,0 +1,212 @@
+Dialogue ID,Turn,Teacher,Student,Correct,Prob,KC Probs,Dialogue Acc.,KCs,Notes,Theta,Difficulty
+0,1,Hi! How can I help?,--,na,--,--,0.6667,None,,--,--
+0,2,--,this question. hello are you there. hello. sophie,na,--,--,0.6667,None,,--,--
+0,3,"Hi! I am :). I'll just have a read of your question, bare with me :)",--,na,--,--,0.6667,None,,--,--
+0,4,--,:),na,--,--,0.6667,None,,--,--
+0,5,Ok!,--,na,--,--,0.6667,None,,--,--
+0,6,--,lets go,na,--,--,0.6667,None,,--,--
+0,7,Have you tried simplifying 9/15?,--,na,--,--,0.6667,None,,--,--
+0,8,--,yes. 3/5,true,--,--,0.6667,1) Equivalent Fractions,,--,--
+0,9,Excellent! Good work!!!! Now how would you get that to a denominator of 10?,--,na,--,--,0.6667,None,,--,--
+0,10,--,what do you mean. 3/5,False,1.0000,"6.7500, -2.6250, 0.0000, 1.0000",0.6667,1) Equivalent Fractions,,6.7500,-2.6250
+0,11,so in 3/5 you have 5 as the denominator,--,na,--,--,0.6667,None,,--,--
+0,12,--,oh,na,--,--,0.6667,None,,--,--
+0,13,this question needs 10,--,na,--,--,0.6667,None,,--,--
+0,14,--,oh you times the numerator and denominator by 2,true,1.0000,"6.1250, -2.6250, 0.0000, 1.0000",0.6667,1) Equivalent Fractions,,6.1250,-2.6250
+0,15,Exactly!!!!! 🔥. So what do you think it will become?,--,na,--,--,0.6667,None,,--,--
+0,16,--,c,true,1.0000,"8.5000, -3.4375, 0.0000, 1.0000",0.6667,1) Equivalent Fractions,,8.5000,-3.4375
+0,17,"Well done Kiran 🧠🧠🧠. Great work, go pop your answer in!",--,na,--,--,0.6667,None,,--,--
+,,,,,,,,,,,
+1,1,--,hello,na,--,--,0.5714,None,,--,--
+1,2,"Hi Zara, would you like some help with this question?",--,na,--,--,0.5714,None,,--,--
+1,3,--,how are you,na,--,--,0.5714,None,,--,--
+1,4,"I'm good thanks, how are you?",--,na,--,--,0.5714,None,,--,--
+1,5,--,im stuck on this question,na,--,--,0.5714,None,,--,--
+1,6,"Ok, let's have a look together.",--,na,--,--,0.5714,None,,--,--
+1,7,--,okay,na,--,--,0.5714,None,,--,--
+1,8,"So, we're thinking about place value in this question.  10,000 is ten thousand.  And 20 is twenty or two tens.",--,na,--,--,0.5714,None,,--,--
+1,9,--,yes,na,--,--,0.5714,None,,--,--
+1,10,Let's think about an easier number first...it might help. What is 100-20?,--,na,--,--,0.5714,None,,--,--
+1,11,--,80,true,--,--,0.5714,1) Mental Addition and Subtraction,,--,--
+1,12,"Great, so which digits changed when you did that sum?",--,na,--,--,0.5714,None,,--,--
+1,13,--,the tens and then there were no hundreds left,true,1.0000,"7.8750, -2.8125, 0.0000, 1.0000",0.5714,1) Mental Addition and Subtraction,,7.8750,-2.8125
+1,14,"Yes, great!  So the hundreds and the tens changed. So, do you think this would be the same for 10,000 or if you're not sure we could look at 1000 first?",--,na,--,--,0.5714,None,,--,--
+1,15,--,yes,na,--,--,0.5714,None,,--,--
+1,16,"So, what is 1000-80?",--,na,--,--,0.5714,None,,--,--
+1,17,--,200,False,1.0000,"7.6250, -4.8750, 0.0000, 1.0000",0.5714,1) Mental Addition and Subtraction,,7.6250,-4.8750
+1,18,"I'm still just taking tens away...in fact I meant to say 1000-20, so have a go at 1000-20.",--,na,--,--,0.5714,None,,--,--
+1,19,--,800,False,1.0000,"7.3750, -4.9375, 0.0000, 1.0000",0.5714,1) Mental Addition and Subtraction,,7.3750,-4.9375
+1,20,"1000-200=800, but we're doing 1000-20, have another go?",--,na,--,--,0.5714,None,,--,--
+1,21,--,oh that would be 980,true,1.0000,"7.0000, -4.7500, 0.0000, 1.0000",0.5714,1) Mental Addition and Subtraction,,7.0000,-4.7500
+1,22,"Yes, great!  Well done! and then getting to the question above, what is 10,000-20?",--,na,--,--,0.5714,None,,--,--
+1,23,--,9800,False,1.0000,"7.2500, -5.1875, 0.0000, 1.0000",0.5714,1) Mental Addition and Subtraction,,7.2500,-5.1875
+1,24,"Nearly...you've taken away 200, but you only need to take away 20.",--,na,--,--,0.5714,None,,--,--
+1,25,--,oh that is 9980,true,1.0000,"7.2500, -5.1250, 0.0000, 1.0000",0.5714,1) Mental Addition and Subtraction,,7.2500,-5.1250
+1,26,"Yes, great!  You can probably see a pattern emerging.  But now, you know the answer to your question above, which answer is it?",--,na,--,--,0.5714,None,,--,--
+1,27,--,is the answer d,true,1.0000,"7.2500, -5.3125, 0.0000, 1.0000",0.5714,1) Mental Addition and Subtraction,,7.2500,-5.3125
+1,28,"Yes!  Great work, Zara!  I'll leave you to enter your answer now if you're happy with this?",--,na,--,--,0.5714,None,,--,--
+1,29,--,yes,na,--,--,0.5714,None,,--,--
+1,30,:-) Well done!,--,na,--,--,0.5714,None,,--,--
+,,,,,,,,,,,
+2,1,Hello Hugo 😀😀😀. How can I help?!,--,na,--,--,0.6000,None,,--,--
+2,2,--,"Hi I was just wondering if I could have some guidance on this question, please :)",na,--,--,0.6000,None,,--,--
+2,3,Of course 😊👍,--,na,--,--,0.6000,None,,--,--
+2,4,--,Thanks,na,--,--,0.6000,None,,--,--
+2,5,So Edward eats 1/3 of 2/3 😀. Does that make sense?,--,na,--,--,0.6000,None,,--,--
+2,6,--,Yes 👍,na,--,--,0.6000,None,,--,--
+2,7,"Great stuff, now in maths if I wanted to find for example 1/3 of something 😊. What mathematical operation would I do? Would I add, subtract, divide or multiply? 🧠💡",--,na,--,--,0.6000,None,,--,--
+2,8,--,For that it would be subtract ? Right ?,False,--,--,0.6000,1) Multiplying Fractions,,--,--
+2,9,"Not quite, for example 1/2 of 10 = 5. So what have we done with the 1/2 and 10? Can you spot it? 😀",--,na,--,--,0.6000,None,,--,--
+2,10,--,10 divided by 2,False,1.0000,"6.0000, -3.9375, 0.0000, 1.0000",0.6000,1) Multiplying Fractions,,6.0000,-3.9375
+2,11,"Yes, totally correct but I'm talking about the 10 and 1/2... 1/2 ___ 10 = 5. What needs to go in the gap? 🧠. If you're not sure, just say in the chat 👍",--,na,--,--,0.6000,None,,--,--
+2,12,--,I’m not really sure sorry :( 😔,False,1.0000,"6.6250, -4.7500, 0.0000, 1.0000",0.6000,1) Multiplying Fractions,,6.6250,-4.7500
+2,13,"It's OK, it would be multiply 😀💡. 1/2 x 10 = 5. So that's how we find 1/3 of something we do 1/3 x 😊. So for this question we need 1/3 of 2/3 so which sum would we do? 🧠💡",--,na,--,--,0.6000,None,,--,--
+2,14,--,A times,true,1.0000,"4.5000, -4.4375, 0.0000, 1.0000",0.6000,1) Multiplying Fractions,,4.5000,-4.4375
+2,15,EXACTLY ✅✅✅,--,na,--,--,0.6000,None,,--,--
+2,16,--,1/3 x 2/3,true,1.0000,"5.8750, -4.5000, 0.0000, 1.0000",0.6000,1) Multiplying Fractions,,5.8750,-4.5000
+2,17,So which answer letter is correct?!,--,na,--,--,0.6000,None,,--,--
+2,18,--,B,true,1.0000,"6.7500, -4.0938, 0.0000, 1.0000",0.6000,1) Multiplying Fractions,,6.7500,-4.0938
+2,19,Spot on Hugo 😀👍. WELL DONE! Does this question make a little bit more sense?!,--,na,--,--,0.6000,None,,--,--
+2,20,--,Thanks a lot for the help. Yes it does. :),na,--,--,0.6000,None,,--,--
+2,21,You are super welcome 😊. Great to hear! I'll pass you back to eedi 🤖✅. Bye for now 😀👋,--,na,--,--,0.6000,None,,--,--
+2,22,--,Thanks :),na,--,--,0.6000,None,,--,--
+,,,,,,,,,,,
+3,1,Hi David 👋👋👋. How can I help?!,--,na,--,--,1.0000,None,,--,--
+3,2,--,i dont understand. hello,na,--,--,1.0000,None,,--,--
+3,3,OK so for this one we need to fill in the blanks with each option until we find the true statement 😁😁😁. So A 6 gives us... 8466 > 8466. Is this true?,--,na,--,--,1.0000,None,,--,--
+3,4,--,no,true,--,--,1.0000,1) Place Value,,--,--
+3,5,Exactly they are the same. So now we try B 7. 8467 > 8476. Is this true?,--,na,--,--,1.0000,None,,--,--
+3,6,--,no,true,1.0000,"5.3750, -4.1562, 0.0000, 1.0000",1.0000,1) Place Value,,5.3750,-4.1562
+3,7,Great so now we try the next one. We need to put in 9. Can you do that for me...,--,na,--,--,1.0000,None,,--,--
+3,8,--,8469 / 8496,true,1.0000,"5.1250, -4.2188, 0.0000, 1.0000",1.0000,1) Place Value,,5.1250,-4.2188
+3,9,Great work 😁😁😁. So is 8469 greater than 8496? 🧠,--,na,--,--,1.0000,None,,--,--
+3,10,--,no,true,1.0000,"5.2500, -3.0000, 0.0000, 1.0000",1.0000,1) Place Value,,5.2500,-3.0000
+3,11,Awesome ✅✅✅✅✅ so which one must be true?!,--,na,--,--,1.0000,None,,--,--
+3,12,--,d,true,1.0000,"4.8750, -4.0938, 0.0000, 1.0000",1.0000,1) Place Value,,4.8750,-4.0938
+3,13,PERFECT 👍👍👍👍👍👍👍. WELL DONE DAVID. Shall I pass you back to eedi? 🤖,--,na,--,--,1.0000,None,,--,--
+3,14,--,yea,na,--,--,1.0000,None,,--,--
+3,15,"Awesome, nice one for requesting help 😃👍and sorry for the delays! Bye for now 👋👋👋",--,na,--,--,1.0000,None,,--,--
+,,,,,,,,,,,
+4,1,Hi Liam 😁👋. How can I help?!,--,na,--,--,0.7500,None,,--,--
+4,2,--,Don't know the answer to it,na,--,--,0.7500,None,,--,--
+4,3,OK so for this one we need to replace the blanks with each value. 😃👍. Let's start with A. 6. So that makes our expression be... 8466 > 8466. Is 8466 greater than 8466? 👀,--,na,--,--,0.7500,None,,--,--
+4,4,--,No it is the same,true,--,--,0.7500,1) Place Value,,--,--
+4,5,Great so that one isn't correct 😃😃😃 so now let's try B... So now we put 7s in the blanks giving... 8467 > 8476. Is 8467 greater than 8476? 👀,--,na,--,--,0.7500,None,,--,--
+4,6,--,No. Less than,true,1.0000,"7.0000, -4.2500, 0.0000, 1.0000",0.7500,1) Place Value,,7.0000,-4.2500
+4,7,Great work,--,na,--,--,0.7500,None,,--,--
+4,8,--,Thanks,na,--,--,0.7500,None,,--,--
+4,9,Can you now put 9 into the blanks... What does that give? Type it in the chat 😃,--,na,--,--,0.7500,None,,--,--
+4,10,--,I don't know it is to hard can you please explain it to me. Are you lair,False,1.0000,"6.6250, -2.8750, 0.0000, 1.0000",0.7500,1) Place Value,,6.6250,-2.8750
+4,11,So it says 846_ > 84_6. In the blanks you need to put the number 9. What would that give? 😁,--,na,--,--,0.7500,None,,--,--
+4,12,--,8469>8496,true,1.0000,"5.2500, -3.4062, 0.0000, 1.0000",0.7500,1) Place Value,,5.2500,-3.4062
+4,13,PERFECT ✅✅✅✅✅✅,--,na,--,--,0.7500,None,,--,--
+4,14,--,Thanks,na,--,--,0.7500,None,,--,--
+4,15,So now we ask ourselves is 8469 greater than 8496? 😊,--,na,--,--,0.7500,None,,--,--
+4,16,--,No less than. Is it d. D,true,1.0000,"7.3750, -4.0625, 0.0000, 1.0000",0.7500,1) Place Value,,7.3750,-4.0625
+4,17,Exactly 😁😁😁. Ready to go back to eedi? 🤖,--,na,--,--,0.7500,None,,--,--
+4,18,--,Yes thank you so much milo you helped me so much thank,na,--,--,0.7500,None,,--,--
+4,19,"You are super welcome, bye for now 👋👋👋",--,na,--,--,0.7500,None,,--,--
+,,,,,,,,,,,
+5,1,Hi again Omar 😁👋. How can I help?!,--,na,--,--,0.7500,None,,--,--
+5,2,--,I am stuck,na,--,--,0.7500,None,,--,--
+5,3,"OK, let's take a look... 👀👀. Right for this one then, we need to use all the cards. And to make the smallest number would we put the biggest card in the units or the smallest?",--,na,--,--,0.7500,None,,--,--
+5,4,--,Smallest,true,--,--,0.7500,1) Place Value,,--,--
+5,5,Exactly so what is the smallest number from the cards?!,--,na,--,--,0.7500,None,,--,--
+5,6,--,0,true,1.0000,"6.3750, -3.2812, 0.0000, 1.0000",0.7500,1) Place Value,,6.3750,-3.2812
+5,7,Great so we can put 0 then what needs to come after the 0? 😊,--,na,--,--,0.7500,None,,--,--
+5,8,--,1,true,1.0000,"7.2500, -3.4062, 0.0000, 1.0000",0.7500,1) Place Value,,7.2500,-3.4062
+5,9,"Great, keep going with the numbers 😁👌",--,na,--,--,0.7500,None,,--,--
+5,10,--,2 3 4 5 6 7 8 9,False,1.0000,"7.1250, -4.1250, 0.0000, 1.0000",0.7500,1) Place Value,,7.1250,-4.1250
+5,11,You can only use the cards you've been given... 😊. 8 3 1 . 0. Place these from smallest to biggest...,--,na,--,--,0.7500,None,,--,--
+5,12,--,0 . 1 3 8. So the answer is B,true,1.0000,"4.8750, -3.5938, 0.0000, 1.0000",0.7500,1) Place Value,,4.8750,-3.5938
+5,13,"And there you go, that's the smallest number you can make from the cards 😁😁😁😁 WELL DONE!!! It is indeed ✅✅✅. Ready to go back to eedi?! 🤖. Awesome work!",--,na,--,--,0.7500,None,,--,--
+5,14,--,Yes. Bye,na,--,--,0.7500,None,,--,--
+5,15,"Of course, bye for now 👋👋👋👋",--,na,--,--,0.7500,None,,--,--
+,,,,,,,,,,,
+6,1,hello! How are you?,--,na,--,--,0.6667,None,,--,--
+6,2,--,good,na,--,--,0.6667,None,,--,--
+6,3,great! would you like me to look at this question with you?,--,na,--,--,0.6667,None,,--,--
+6,4,--,yes,na,--,--,0.6667,None,,--,--
+6,5,"I'd love to 😀. Frist, what does descending mean?",--,na,--,--,0.6667,None,,--,--
+6,6,--,gowin done,true,--,--,0.6667,1) Default,,--,--
+6,7,"I agree, going down. and so look a the numbers we have   -5,  -8,  7,  -6. which is the highest?",--,na,--,--,0.6667,None,,--,--
+6,8,--,-8,False,1.0000,"4.5000, -3.5312, 0.0000, 1.0000",0.6667,1) Ordering Negative Numbers,,4.5000,-3.5312
+6,9,"no, there are higher ones",--,na,--,--,0.6667,None,,--,--
+6,10,--,7,true,1.0000,"5.2500, -4.3125, 0.0000, 1.0000",0.6667,1) Ordering Negative Numbers,,5.2500,-4.3125
+6,11,"Yes, 7 is the highest",--,na,--,--,0.6667,None,,--,--
+6,12,--,"7,-5,-6,-8",true,1.0000,"4.8750, -4.7500, 0.0000, 1.0000",0.6667,1) Ordering Negative Numbers,,4.8750,-4.7500
+6,13,"you can think about temperatures if you like, of these 4 numbers 7 is the warmest. aww perfect answer!! well done Merrick, great job!",--,na,--,--,0.6667,None,,--,--
+6,14,--,yes,na,--,--,0.6667,None,,--,--
+6,15,I guess I'll leave and let you continue 😀,--,na,--,--,0.6667,None,,--,--
+6,16,--,gese good biy,na,--,--,0.6667,None,,--,--
+6,17,👋😊,--,na,--,--,0.6667,None,,--,--
+,,,,,,,,,,,
+7,1,"Hi again! Firstly, do you know what descending order is?",--,na,--,--,0.6667,None,,--,--
+7,2,--,YEARH!,na,--,--,0.6667,None,,--,--
+7,3,"Go on, what does that mean? 😄",--,na,--,--,0.6667,None,,--,--
+7,4,--,Biggest to smallest,true,--,--,0.6667,1) Default,,--,--
+7,5,Spot on!!👏🧠. From those number which number would be the biggest?,--,na,--,--,0.6667,None,,--,--
+7,6,--,✅. Wich numbers,na,--,--,0.6667,None,,--,--
+7,7,We have -5 -8 7 -6,--,na,--,--,0.6667,None,,--,--
+7,8,--,Ohh -5,False,1.0000,"5.3750, -3.8125, 0.0000, 1.0000",0.6667,1) Ordering Negative Numbers,,5.3750,-3.8125
+7,9,"7 must be the biggest number as it is the only positive number. Try and imagine or even draw out a number line, 7 is the only number greater than 0. So from our answer options we can narrow it down do B or D as they both start with 7. Does that make sense so far?",--,na,--,--,0.6667,None,,--,--
+7,10,--,✅,na,--,--,0.6667,None,,--,--
+7,11,Excellent,--,na,--,--,0.6667,None,,--,--
+7,12,--,✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅,na,--,--,0.6667,None,,--,--
+7,13,Now we have these number left -5 -8 -6,--,na,--,--,0.6667,None,,--,--
+7,14,--,✅,na,--,--,0.6667,None,,--,--
+7,15,"From these number which one is the biggest? So try and think of a number line, which number is closest to 0?",--,na,--,--,0.6667,None,,--,--
+7,16,--,-5,true,1.0000,"6.6250, -3.9062, 0.0000, 1.0000",0.6667,1) Ordering Negative Numbers,,6.6250,-3.9062
+7,17,"Well done Mariana, that points us to answer D! 7, -5, -6, -8",--,na,--,--,0.6667,None,,--,--
+7,18,--,D✅,true,1.0000,"6.3750, -4.7812, 0.0000, 1.0000",0.6667,1) Ordering Negative Numbers,,6.3750,-4.7812
+7,19,Bye for now!😄👋🎉,--,na,--,--,0.6667,None,,--,--
+7,20,--,Bye thanks for your help!,na,--,--,0.6667,None,,--,--
+,,,,,,,,,,,
+8,1,Hi Amelia! How can I help?,--,na,--,--,0.5000,None,,--,--
+8,2,--,hi :) I'm not sure about this question - I don't understand it,na,--,--,0.5000,None,,--,--
+8,3,Let's have a looK! Do you know what x > -35 means?,--,na,--,--,0.5000,None,,--,--
+8,4,--,No.,true,--,--,0.5000,1) Ordering Negative Numbers,,--,--
+8,5,Okay! So the > sign means greater than. This means that any value of x needs to be greater than -35. So is -62 greater than -35?,--,na,--,--,0.5000,None,,--,--
+8,6,--,yeah!...I think. 🤔🤔,False,1.0000,"4.6250, -3.9375, 0.0000, 1.0000",0.5000,1) Ordering Negative Numbers,,4.6250,-3.9375
+8,7,"Think about your numbers on a number line, if a number is MORE negative, that means that it is smaller 🙂 so -62 is actually less than -35",--,na,--,--,0.5000,None,,--,--
+8,8,--,so its minus 1 then? 😮,true,1.0000,"5.2500, -4.6250, 0.0000, 1.0000",0.5000,1) Ordering Negative Numbers,,5.2500,-4.6250
+8,9,Yes that's correct! Well done,--,na,--,--,0.5000,None,,--,--
+8,10,--,oh! yeah,na,--,--,0.5000,None,,--,--
+8,11,All of the other values are either less than -35 or the same 😊. would you like any more help? 😎,--,na,--,--,0.5000,None,,--,--
+8,12,--,do you mean...um... what do you mean by that? 🤨. help,na,--,--,0.5000,None,,--,--
+8,13,"So -36 is smaller than -35 so it can't be that, then -35 is the same as -35 so it is not greater than it 😊",--,na,--,--,0.5000,None,,--,--
+8,14,--,about help*,na,--,--,0.5000,None,,--,--
+8,15,ohh is there anything else I can help you with? 😊,--,na,--,--,0.5000,None,,--,--
+8,16,--,no thanks:),na,--,--,0.5000,None,,--,--
+8,17,Okay! I'll let you continue with the lesson 😊 have a nice evening!,--,na,--,--,0.5000,None,,--,--
+,,,,,,,,,,,
+9,1,Hi how can I help?,--,na,--,--,0.6667,None,,--,--
+9,2,--,hi i am a bi confused but i am embarrassed to say so,na,--,--,0.6667,None,,--,--
+9,3,No worries Miriam let me help 😀,--,na,--,--,0.6667,None,,--,--
+9,4,--,ok thanks. 👍,na,--,--,0.6667,None,,--,--
+9,5,So we need an answer of 7. We can try each of the 4 options to see which one gives us that. 16 - (6+4) / 2,--,na,--,--,0.6667,None,,--,--
+9,6,--,ok,na,--,--,0.6667,None,,--,--
+9,7,First we do the brackets in BIDMAS or BODMAS. so we get 16 - 10 / 2,--,na,--,--,0.6667,None,,--,--
+9,8,--,yes,na,--,--,0.6667,None,,--,--
+9,9,Then we divide so 16 - 5. which gives us 11 so that won;t work. We need 7,--,na,--,--,0.6667,None,,--,--
+9,10,--,Ok thanks,na,--,--,0.6667,None,,--,--
+9,11,Next one is (16-6) +4 / 2. brackets first. So 10 + 4 /2. Then divide so 10 +2 = 12,--,na,--,--,0.6667,None,,--,--
+9,12,--,i dont need help and more thank you have helped,na,--,--,0.6667,None,,--,--
+9,13,"B doesn't work either. Ok no worries Miriam. Great, I'll leave and let you type your answer in. Good luck with the lesson!",--,na,--,--,0.6667,None,,--,--
+9,14,--,hi i am comfused,na,--,--,0.6667,None,,--,--
+9,15,Hi! How are you getting on with this question? 😊,--,na,--,--,0.6667,None,,--,--
+9,16,--,i lthink i am strugling,na,--,--,0.6667,None,,--,--
+9,17,So with this we want to work out each one and see if it gives us 7. Have you managed to check any?,--,na,--,--,0.6667,None,,--,--
+9,18,--,a few the first 2,true,--,--,0.6667,1) BIDMAS,,--,--
+9,19,"Great, what have you got for those?",--,na,--,--,0.6667,None,,--,--
+9,20,--,42 and 54,False,1.0000,"5.0000, -4.9375, 0.0000, 1.0000",0.6667,1) BIDMAS,,5.0000,-4.9375
+9,21,Let's take a look together. So 16- (6+4) / 2. which bit do we do first?,--,na,--,--,0.6667,None,,--,--
+9,22,--,6+4,true,1.0000,"2.7500, -4.8750, 0.0000, 1.0000",0.6667,1) BIDMAS,,2.7500,-4.8750
+9,23,Amazing. So we have 16-10 /2. what next?,--,na,--,--,0.6667,None,,--,--
+9,24,--,/2,true,1.0000,"4.1250, -4.6250, 0.0000, 1.0000",0.6667,1) BIDMAS,,4.1250,-4.6250
+9,25,Amazing! so 16 - 5. So that one gives us 11,--,na,--,--,0.6667,None,,--,--
+9,26,--,ok,na,--,--,0.6667,None,,--,--
+9,27,"Can you try B, what would we do?",--,na,--,--,0.6667,None,,--,--
+9,28,--,oh i understand now thank you,na,--,--,0.6667,None,,--,--
+9,29,No worries! Bye!,--,na,--,--,0.6667,None,,--,--
+,,,,,,,,,,,
