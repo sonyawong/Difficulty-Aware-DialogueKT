@@ -1,6 +1,6 @@
 # Difficulty-Aware Dialogue Knowledge Tracing
 
-This is the repo for **Difficulty-Aware-DialogueKT** in CS682: An Interpretable LLM-Based Ability and Difficulty Modeling Framework for Knowledge Tracing in Tutoring Dialogues.
+This is the repo for **Difficulty-Aware-DialogueKT** in COMPSCI 682: An Interpretable LLM-Based Ability and Difficulty Modeling Framework for Knowledge Tracing in Tutoring Dialogues.
 
 ---
 
