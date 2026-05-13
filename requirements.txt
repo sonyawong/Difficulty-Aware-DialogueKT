@@ -1,4 +1,4 @@
-bitsandbytes==0.43.3
+bitsandbytes==0.45.5
 datasets==2.20.0
 krippendorff==0.7.0
 matplotlib==3.9.2

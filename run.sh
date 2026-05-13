@@ -1,11 +1,11 @@
 
 
 python -m dialogue_kt.main train \
-    --dataset mathdial \
-    --base_model /work/pi_andrewlan_umass_edu/.cache/huggingface/hub/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659/ \
+    --dataset eedi \
+    --base_model model_path \
     --model_type lmkt \
-    --model_name lmkt_mathdial_8b \
-    --tag_src atc \
+    --model_name lmkt_eedi_8b \
+    --tag_src mathdial_format \
     --use_irt True \
     --batch_size 1 \
     --fold 1 \

@@ -256,7 +256,7 @@ def get_lmkt_loss_packed(model, batch, true_token, false_token, args):
     loss = torch.nn.BCELoss()(corr_probs, batch["labels"])
     return loss, kc_probs_grouped, corr_probs
 
-def get_lmkt_loss_irt(model, batch, args):
+def get_lmkt_loss_irt(model, batch, true_token, false_token, args):
     """Ordinal IRT loss: GOOD-BAD logit difference → θ, HARD-EASY → d, 1PL-IRT prediction."""
     attention_mask = batch["attention_mask"]
     if hasattr(model, 'base_model'):
