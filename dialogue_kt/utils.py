@@ -20,6 +20,7 @@ def bool_type(x: str):
     return x != "0"
 
 def get_checkpoint_path(model_name: str):
+    os.makedirs("saved_models", exist_ok=True)
     return f"saved_models/{model_name}"
 
 
