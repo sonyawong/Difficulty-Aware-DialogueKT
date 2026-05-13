@@ -1,12 +1,4 @@
 
-# HF_HUB_OFFLINE=1
-
-# module load cuda/12.1
-# module load conda/latest
-
-# conda activate /work/pi_andrewlan_umass_edu/shuang_umass_edu/.conda/envs/llmkt_work
-# cd /work/pi_andrewlan_umass_edu/shuang_umass_edu/Difficulty-Aware-DialogueKT
-
 
 python -m dialogue_kt.main train \
     --dataset mathdial \
